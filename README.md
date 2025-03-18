@@ -9,6 +9,9 @@ This IoT-based Home Automation System using ESP8266 operates in two modes: Manua
   - **LDR-Based Control**: Lights turn ON/OFF automatically based on ambient light.
   - **Temperature Sensor-Based Control**: Fans or ACs activate when temperature exceeds a set threshold.
 
+    ![image](https://github.com/user-attachments/assets/85b44362-5cef-4536-8a8e-e093348e0b18)
+
+
 ## Key Features
 ✅ **Dual Mode Operation** – Switch between manual and automatic control.  
 ✅ **Wi-Fi Connectivity** – Remote access via smartphone or web dashboard.  
